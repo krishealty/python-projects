@@ -1,4 +1,4 @@
-##GUI AUDIO PLAYER
+## GUI AUDIO PLAYER
 You need to import some libraries and modules first
 ```pygame```
 ```os```
